@@ -1,0 +1,4 @@
+mode: sqlite3
+sqlite3:
+  loc: C:\Stocks\TradeSys\data
+
